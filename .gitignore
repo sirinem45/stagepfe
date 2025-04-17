@@ -1,0 +1,17 @@
+# 1) Ignore tout
+*
+
+# 2) Sauf ce fichier
+!.gitignore
+
+# 3) Désin‐ignorer alphatech/ et tout son contenu
+!/alphatech/
+!/alphatech/**
+
+# 4) Désin‐ignorer appmobile/ et tout son contenu
+!/appmobile/
+!/appmobile/**
+
+# 5) Désin‐ignorer le dossier "base de donnee/" et tout son contenu
+!/base de donnee/
+!/base de donnee/**
